@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f081c461-875c-4332-95bf-f96cdaf37dcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/util/ClassUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\code_learn\10_spring_source_code\myself\hello-springframework\helloframework\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_all_in_here\maven_repository" />
+        <option name="mavenHome" value="E:/maven_all_in_here/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\maven_all_in_here\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eaN3XYVnz5mts2Q2J9KmkNJBwb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f081c461-875c-4332-95bf-f96cdaf37dcc" name="Default Changelist" comment="" />
+      <created>1594555544541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594555544541</updated>
+      <workItem from="1594555547105" duration="3922000" />
+      <workItem from="1594596819076" duration="4747000" />
+    </task>
+    <task id="LOCAL-00001" summary="1. 项目搭建">
+      <created>1594556501593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594556501593</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1. IOC核心注解的创建">
+      <created>1594558015765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594558015765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="1. 项目搭建" />
+    <MESSAGE value="1. IOC核心注解的创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. IOC核心注解的创建" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="133" key="CommitChangelistDialog2" timestamp="1594606032488">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1117" y="87" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@-1440.0.1440.900" timestamp="1594558014717" />
+    <state x="430" y="133" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594606032488" />
+    <state x="774" y="296" key="FileChooserDialogImpl" timestamp="1594557141212">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="774" y="296" key="FileChooserDialogImpl/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594557141212" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1594597477899">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594597477899" />
+    <state x="-1026" y="228" key="Vcs.Push.Dialog.v2" timestamp="1594558021880">
+      <screen x="-1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1026" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@-1440.0.1440.900" timestamp="1594558021880" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594556513213" />
+    <state x="636" y="387" width="716" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1594557143774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="387" width="716" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594557143774" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1594557134382">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594557134382" />
+  </component>
+</project>
