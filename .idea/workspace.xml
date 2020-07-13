@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f081c461-875c-4332-95bf-f96cdaf37dcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/util/ClassUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/annotation/Aspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/core/BeanContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/util/ValidationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/util/ClassUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/util/ClassUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594555544541</updated>
       <workItem from="1594555547105" duration="3922000" />
-      <workItem from="1594596819076" duration="4747000" />
+      <workItem from="1594596819076" duration="12003000" />
     </task>
     <task id="LOCAL-00001" summary="1. 项目搭建">
       <created>1594556501593</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594558015765</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="03. ClassUtil工具类的编写">
+      <created>1594606081602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594606081602</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,14 +134,15 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <MESSAGE value="1. 项目搭建" />
     <MESSAGE value="1. IOC核心注解的创建" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. IOC核心注解的创建" />
+    <MESSAGE value="03. ClassUtil工具类的编写" />
+    <option name="LAST_COMMIT_MESSAGE" value="03. ClassUtil工具类的编写" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="133" key="CommitChangelistDialog2" timestamp="1594606032488">
+    <state x="430" y="133" key="CommitChangelistDialog2" timestamp="1594606080732">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1117" y="87" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@-1440.0.1440.900" timestamp="1594558014717" />
-    <state x="430" y="133" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594606032488" />
+    <state x="430" y="133" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594606080732" />
     <state x="774" y="296" key="FileChooserDialogImpl" timestamp="1594557141212">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -140,11 +151,15 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594597477899" />
-    <state x="-1026" y="228" key="Vcs.Push.Dialog.v2" timestamp="1594558021880">
-      <screen x="-1440" y="0" width="1440" height="900" />
+    <state x="681" y="281" width="582" height="524" key="StructurePopup" timestamp="1594607473195">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="281" width="582" height="524" key="StructurePopup/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594607473195" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594606199776">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1026" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@-1440.0.1440.900" timestamp="1594558021880" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594556513213" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594606199776" />
     <state x="636" y="387" width="716" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1594557143774">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

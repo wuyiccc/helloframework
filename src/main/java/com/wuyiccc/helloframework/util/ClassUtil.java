@@ -4,6 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.io.File;
 import java.io.FileFilter;
+import java.lang.reflect.Constructor;
 import java.net.URL;
 import java.util.HashSet;
 import java.util.Set;
@@ -108,6 +109,25 @@ public class ClassUtil {
             return Class.forName(className);
         } catch (ClassNotFoundException e) {
             log.error("load class error");
+            throw new RuntimeException(e);
+        }
+    }
+
+    /**
+     * 实例化class
+     *
+     * @param clazz
+     * @param accessible 是否可以通过反射来访问该class的private修饰的构造函数
+     * @param <T>
+     * @return
+     */
+    public static <T> T newInstance(Class<T> clazz, boolean accessible) {
+        try {
+            Constructor constructor = clazz.getDeclaredConstructor();
+            constructor.setAccessible(accessible); // 防止获取到的是private类型的构造函数
+            return (T) constructor.newInstance();
+        } catch (Exception e) {
+            log.error("newInstance error", e);
             throw new RuntimeException(e);
         }
     }
