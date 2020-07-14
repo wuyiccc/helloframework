@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f081c461-875c-4332-95bf-f96cdaf37dcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/AspectListExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/AspectWeaver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/PointcutLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/ProxyCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/annotation/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/aspect/AspectInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/aspect/DefaultAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/AspectListExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/AspectListExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/AspectWeaver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/AspectWeaver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/PointcutLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/PointcutLocator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/ProxyCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wuyiccc/helloframework/aop/ProxyCreator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594555544541</updated>
       <workItem from="1594555547105" duration="3922000" />
-      <workItem from="1594596819076" duration="21344000" />
+      <workItem from="1594596819076" duration="30878000" />
     </task>
     <task id="LOCAL-00001" summary="1. 项目搭建">
       <created>1594556501593</created>
@@ -135,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594626775987</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="06. AOP前置工作准备以及实现逻辑分析">
+      <created>1594690729657</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594690729657</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,18 +163,19 @@
     <MESSAGE value="03. ClassUtil工具类的编写" />
     <MESSAGE value="04. 容器的创建已经增删查改操作" />
     <MESSAGE value="05. 实现容器的依赖注入" />
-    <option name="LAST_COMMIT_MESSAGE" value="05. 实现容器的依赖注入" />
+    <MESSAGE value="06. AOP前置工作准备以及实现逻辑分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="06. AOP前置工作准备以及实现逻辑分析" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="250" key="#com.intellij.ide.util.MemberChooser" timestamp="1594689456072">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="765" y="250" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594689456072" />
-    <state x="430" y="133" key="CommitChangelistDialog2" timestamp="1594626774951">
+    <state x="430" y="133" key="CommitChangelistDialog2" timestamp="1594690727358">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1117" y="87" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@-1440.0.1440.900" timestamp="1594558014717" />
-    <state x="430" y="133" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594626774951" />
+    <state x="430" y="133" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594690727358" />
     <state x="774" y="296" key="FileChooserDialogImpl" timestamp="1594557141212">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -185,11 +188,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="681" y="281" width="582" height="524" key="StructurePopup/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594607473195" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594626789814">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594690812594">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1026" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@-1440.0.1440.900" timestamp="1594558021880" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594626789814" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594690812594" />
     <state x="636" y="387" width="716" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1594557143774">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
