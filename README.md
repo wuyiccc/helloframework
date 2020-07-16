@@ -2,7 +2,7 @@
 
 # 1. 项目简介
 
-> 1. 这是一个具有IOC,AOP,MVC的简易框架，未来可能会增加新的功能
+> 1. 目前这是一个具有IOC,AOP,MVC的简易框架
 
 # 2. 该项目实现教程笔记地址：
 
@@ -12,6 +12,10 @@
 # 3. helloframework使用教程
 
 - 待完成中...
+
+# 4. helloframework下一个小版本预计要完成的功能
+> 1. Controller的方法里的参数，可以有选择地加上@RequestParam注解，而不是必须加上@RequestParam注解
+> 2. Controller地方法参数类型支持自定义对象类型
 
 ---
 
