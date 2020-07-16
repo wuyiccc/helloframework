@@ -35,6 +35,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -341,11 +342,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1115" y="423" key="#xdebugger.evaluate/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594713502502" />
-    <state x="430" y="133" key="CommitChangelistDialog2" timestamp="1594821336156">
+    <state x="430" y="133" key="CommitChangelistDialog2" timestamp="1594861394409">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1117" y="87" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@-1440.0.1440.900" timestamp="1594558014717" />
-    <state x="430" y="133" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594821336156" />
+    <state x="430" y="133" key="CommitChangelistDialog2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594861394409" />
     <state x="774" y="296" key="FileChooserDialogImpl" timestamp="1594772816177">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -438,11 +439,15 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="488" key="SwitcherDM/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594824221551" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594821346880">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594861399255">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1026" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@-1440.0.1440.900" timestamp="1594558021880" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594821346880" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594861399255" />
+    <state x="752" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594861519583">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="752" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1594861519583" />
     <state x="397" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594825657119">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
