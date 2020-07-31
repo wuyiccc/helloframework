@@ -7,7 +7,7 @@
 # 2. 该项目实现教程笔记地址：
 
 1. CSDN: https://blog.csdn.net/qq_27148729/category_10190011.html
-2. Segmentfault： https://segmentfault.com/blog/qiuzhao-diary
+2. Segmentfault：https://segmentfault.com/blog/helloframework 
 
 # 3. helloframework使用教程
 
